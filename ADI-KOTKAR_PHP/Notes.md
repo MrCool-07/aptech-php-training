@@ -27,5 +27,9 @@ $_SERVER
     - stored in server
     - no storage limit
     - more secure
-    
+
 3. Functions
+    - Name of function
+    - return type
+    - parameters
+    syntax: =>  function name( para1, para2 ){ ...instructions... }
