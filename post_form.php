@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>This is a sample form.</h2>
+<h2>Registration sample form.</h2>
 
 <form method = "post" action = "post.php" name="post_form">
  <table>

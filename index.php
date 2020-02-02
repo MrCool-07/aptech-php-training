@@ -33,10 +33,10 @@
 					<a href="Functions/strpos.php">strpos()</a>
             	</li>
             	<li>
-					<a href="Functions/simple_function.php">strtolower()</a>
+					<a href="Functions/strtolower.php">strtolower()</a>
             	</li>
             	<li>
-					<a href="Functions/simple_function.php">strtoupper()</a>
+					<a href="Functions/strtoupper.php">strtoupper()</a>
             	</li>
             	<li>
 					<a href="Functions/simple_function.php">is_string()</a>
