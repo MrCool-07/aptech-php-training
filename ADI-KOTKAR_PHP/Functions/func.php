@@ -1,9 +1,9 @@
 <?php
-    $a = "Aditya ";
+    $a = "Aditya Vilas";
     $b = "Kotkar";
 
     function myName($fname,$lname){
-        $c = $fname.$lname;
+        $c = $fname." ".$lname;
         echo $c;
     }
 
