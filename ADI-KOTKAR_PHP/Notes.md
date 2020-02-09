@@ -33,3 +33,8 @@ $_SERVER
     - return type
     - parameters
     syntax: =>  function name( para1, para2 ){ ...instructions... }
+
+4. Conditional Statements:
+    - if(condition){......}else{........}
+    - if(condition){......}elseif(condition){.......}else{.......}
+    - 
