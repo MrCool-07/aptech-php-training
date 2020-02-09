@@ -34,12 +34,19 @@ $_SERVER
         - path
         - domain
     => for accessing any cookie, we use global variable $_COOKIE
-    
+
 2. Sessions
     - user session management
     - stored in server
     - no storage limit
     - more secure
+
+    => use statement: seesion_start();
+    => we use global variable $_SESSION[KEY] = 'VALUE'
+    => session_destroy(); for completely destroying the session
+    => unset used for not setting the session.
+    => session.auto_start in php.ini to 1 to automatically start session at any page.
+      
 
 3. Functions
     - Name of function
