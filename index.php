@@ -1,3 +1,6 @@
+<?php
+// require_once("common/header.php"); 
+?>
 <html>
    <body>
       Hello, welcome to Aptech.
@@ -63,6 +66,20 @@
             </ul>
          </ul>
       </li>
+      <li>
+         Cookies
+         <ul>
+         	<li> 
+         		<a href="session_management/setcookie.php">Set Cookie function</a>
+         	</li>
+         	<li> 
+         		<a href="session_management/getcookie.php">Get Cookie with $_COOKIE </a>
+         	</li>
+         	<li> 
+         		<a href="session_management/unset_cookie.php">Unset Cookie with $_COOKIE </a>
+         	</li>
+         </ul>
+     </li>
   </ul>
    </body>
 </html>
