@@ -59,4 +59,15 @@ $_SERVER
     - if(condition){......}elseif(condition){.......}else{.......}
     - nested if else : if else inside if else statement
     - switch statement : switch(variable){ case '': echo.....break; case '':...........default: .....}
-    -   
+
+# New Features in PHP 7 (compared to PHP 5) - refer from *PHP DOCUMENTATION*, *TUTORIALSPOINT*
+1. intdiv() : checks whether two values are divisible or not.
+2. spaceship operator : "<=>" used for comparing two values. eg. 1<=>2 returns -1
+3. NULL coalescing opertaor : similar to ternary operator
+4. Scalar type declaration : 1- coercive=> not required to mention datatypes,
+                             2- strict=> required to mention datatype.
+5. Uniform variable syntax : 
+6. Use operator
+7. Closure call methods
+8. Generator delegation via yield form
+9. Dirname() function
