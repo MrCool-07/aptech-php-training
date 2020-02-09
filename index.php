@@ -2,6 +2,22 @@
    <body>
       Hello, welcome to Aptech.
       <ul>
+  		<li>Conditional Statements
+  			<ul>
+  				<li>
+		         <a href="conditional_statements/if_else.php"> If Else</a>
+		      </li>
+		      <li>
+		         <a href="conditional_statements/if_elseif_else.php"> If ElseIf Else</a>
+		      </li>
+		      <li>
+		         <a href="conditional_statements/switch.php">Switch</a>
+		      </li>
+		      <li>
+		         <a href="conditional_statements/switch1.php">Switch - Multiple conditions Same Cases</a>
+		      </li>
+  			</ul>
+  		</li>
       <li>
          <a href="get_form.php"> Forms - GET Example</a>
       </li>
