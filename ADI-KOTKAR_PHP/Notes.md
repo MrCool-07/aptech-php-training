@@ -30,7 +30,7 @@ $_SERVER
     => setcookie() used in php
         - cookie name*
         - cookie value*
-        - expire date*
+        - expire expirydate*
         - path
         - domain
     => for accessing any cookie, we use global variable $_COOKIE
@@ -41,7 +41,8 @@ $_SERVER
     - no storage limit
     - more secure
 
-    => use statement: seesion_start();
+    => created for a specific client
+    => use statement: seesion_start() - cookie gets created in background with name ses_32hexadecrandnum;
     => we use global variable $_SESSION[KEY] = 'VALUE'
     => session_destroy(); for completely destroying the session
     => unset used for not setting the session.
@@ -50,8 +51,10 @@ $_SERVER
 
 3. Functions
     - Name of function
+    - defination
     - return type
     - parameters
+    - call 
     syntax: =>  function name( para1, para2 ){ ...instructions... }
 
 4. Conditional Statements:
