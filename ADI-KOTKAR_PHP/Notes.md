@@ -37,4 +37,6 @@ $_SERVER
 4. Conditional Statements:
     - if(condition){......}else{........}
     - if(condition){......}elseif(condition){.......}else{.......}
-    - 
+    - nested if else : if else inside if else statement
+    - switch statement : switch(variable){ case '': echo.....break; case '':...........default: .....}
+    -   
