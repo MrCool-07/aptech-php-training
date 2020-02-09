@@ -1,3 +1,5 @@
+# PHP NOTES:
+
 Body of data( datasend along with url) is called query string(has a memory limit).
 
 Difference between GET and POST $_GET:
