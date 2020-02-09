@@ -16,12 +16,25 @@ $_SERVER
     form method
     gives info about system.
 
-1. Cookies
+    *REQUESTS:
+    - present in packets
+    - contains a header and value/data
+
+1. Cookies (Inspect -> Application)
     - user session management
     - stored in browser
     - storage limited (depends on user whether user allows)
     - memory limit
     - less secure
+
+    => setcookie() used in php
+        - cookie name*
+        - cookie value*
+        - expire date*
+        - path
+        - domain
+    => for accessing any cookie, we use global variable $_COOKIE
+    
 2. Sessions
     - user session management
     - stored in server
