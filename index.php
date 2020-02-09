@@ -78,6 +78,9 @@
          	<li> 
          		<a href="session_management/unset_cookie.php">Unset Cookie with $_COOKIE </a>
          	</li>
+         	<li> 
+         		<a href="session_management/sessions.php">Set Sessions with $_SESSION </a>
+         	</li>
          </ul>
      </li>
   </ul>
