@@ -39,7 +39,7 @@
 					<a href="Functions/strtoupper.php">strtoupper()</a>
             	</li>
             	<li>
-					<a href="Functions/simple_function.php">is_string()</a>
+					<a href="Functions/isstring.php">is_string()</a>
             	</li>
             	<li>
 					<a href="Functions/simple_function.php">strstr()</a>
