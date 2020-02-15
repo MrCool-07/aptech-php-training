@@ -32,9 +32,10 @@ $_SERVER
     => setcookie() used in php
         - cookie name*
         - cookie value*
-        - expire expirydate*
+        - expire expirydate/timestamp*
         - path
         - domain
+        - HTTP only - true/false
     => for accessing any cookie, we use global variable $_COOKIE
 
 2. Sessions
