@@ -9,3 +9,4 @@ For units above 250 – Rs. 6.50/unit
 
 1. Write one program by assuming units as input 
 2. Write one program with form to take input from user for units & then calculate & show output in browser after form submision.
+3. Validate input for numbers
