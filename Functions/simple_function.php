@@ -23,10 +23,14 @@ $var1 = 4;
 $var2 = 5;
 
 add($var1, $var2);
+add(3, 5);
+add(3.5, 5);
+
+// add("Aptech", "Education");
 
 function add($var1, $var2){
 	$var3 = $var1 + $var2;
-	echo $var3;
+	echo "<br> $var3";
 }
 
 ?>

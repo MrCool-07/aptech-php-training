@@ -1,0 +1,12 @@
+You need to write a PHP program to calculate electricity bill using if-else conditions.
+
+Conditions:
+
+For first 50 units – Rs. 3.50/unit
+For next 100 units – Rs. 4.00/unit
+For next 100 units – Rs. 5.20/unit
+For units above 250 – Rs. 6.50/unit
+
+1. Write one program by assuming units as input 
+2. Write one program with form to take input from user for units & then calculate & show output in browser after form submision.
+3. Validate input for numbers
