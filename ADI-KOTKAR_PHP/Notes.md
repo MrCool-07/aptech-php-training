@@ -77,3 +77,17 @@ $_SERVER
 7. Closure call methods
 8. Generator delegation via yield form
 9. Dirname() function
+
+
+# Database connection with MySQL
+1. Create Database - Students
+2. mysql_connect()
+    - host
+    - username
+    - password
+    $connect = mysql_connect($host,$username,#password,$db);
+    $host = 'localhost'; //IP/domain
+    $username = 'root';
+    $password = '';
+    $db = 'Students';
+
