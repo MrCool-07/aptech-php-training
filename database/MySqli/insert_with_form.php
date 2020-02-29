@@ -14,7 +14,8 @@ if(isset($_POST['submit'])){
 			('$firstname', '$lastname', '$email', '$username')";
 
 	if ($conn->query($sql) === TRUE) {
-	    echo "New record created successfully - ".$conn->insert_id;
+	    // echo "New record created successfully - ".$conn->insert_id;
+	    header("location: select.php");	
 	} else {
 	    echo "Error: " . $sql . "<br>" . $conn->error;
 	}
