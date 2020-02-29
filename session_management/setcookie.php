@@ -13,8 +13,8 @@ setcookie(  name,
 
 */
 
-$cookie_name = "user";
-$cookie_value = "Pradeep";
+$cookie_name = "user1";
+$cookie_value = "Aptech";
 
 setcookie(  $cookie_name, 
 			$cookie_value, 
