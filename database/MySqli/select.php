@@ -1,7 +1,7 @@
 <?php
-include("connection.php");
-$sql = "SELECT * FROM student";
-$result = $conn->query($sql);
+	include("connection.php");
+	$sql = "SELECT * FROM student";
+	$result = $conn->query($sql);
 ?>
 
 <html>
