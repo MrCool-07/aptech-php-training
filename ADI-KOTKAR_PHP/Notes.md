@@ -91,3 +91,11 @@ $_SERVER
     $password = '';
     $db = 'Students';
 
+# Email Hnadling
+1. Enbale SMTP in xampp settings
+2. Configure SMTP
+    -username
+    -password
+3. email -> set up password 
+    email send by - google
+    smtp.gmail.com
