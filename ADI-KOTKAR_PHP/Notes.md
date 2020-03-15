@@ -99,3 +99,8 @@ $_SERVER
 3. email -> set up password 
     email send by - google
     smtp.gmail.com
+
+# Error/Exception handling
+- Throwable interface introduced in PHP to handle errors.(Throwable interface used, 'implements' used)
+- Try catch used for exception handling.(Exception class used, 'extends' used)
+
